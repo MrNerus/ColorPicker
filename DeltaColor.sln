@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaColor", "DeltaColor\DeltaColor.csproj", "{3BC401D4-C6C7-4840-88A9-604456D738EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC401D4-C6C7-4840-88A9-604456D738EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC401D4-C6C7-4840-88A9-604456D738EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC401D4-C6C7-4840-88A9-604456D738EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC401D4-C6C7-4840-88A9-604456D738EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD8E5F2-5035-4575-85CC-C48455774636}
+	EndGlobalSection
+EndGlobal
